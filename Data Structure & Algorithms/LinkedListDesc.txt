@@ -1,0 +1,15 @@
+
+A linked list is a linear data structure used to store a sequence of elements called nodes. Each node contains two fields: data and a reference (or pointer) to the next node in the sequence. The first node in the list is called the head, and the last node is called the tail.
+
+Linked lists have several advantages over other data structures such as arrays. For example, linked lists can be easily resized and elements can be added or removed without the need to shift other elements. However, linked lists have some disadvantages such as slower access times and the need for more memory due to the additional pointer fields.
+
+There are two main types of linked lists: singly linked lists and doubly linked lists. In a singly linked list, each node has a reference to the next node in the sequence, but not to the previous node. In a doubly linked list, each node has references to both the next and previous nodes in the sequence.
+
+Some common operations performed on linked lists include:
+- Traversing the list to search for an element or to perform some operation on each element.
+- Adding an element to the beginning or end of the list.
+- Removing an element from the beginning or end of the list.
+- Inserting an element at a specific position in the list.
+- Deleting an element from a specific position in the list.
+
+Linked lists are a fundamental data structure in computer science and are used in many applications such as implementing stacks, queues, and hash tables.
